@@ -10,8 +10,6 @@ fn main() {
         else if n % 2!= 0 {
             println!("odd");
         }
-
-        // Increment counter
         n += 1;
     }
 }
